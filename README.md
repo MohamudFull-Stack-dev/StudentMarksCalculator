@@ -1,16 +1,16 @@
-#Student Marks Calculator
+# Student Marks Calculator
 
 ## 1. Project Description
 
-Student Marks Calculator is a C++ concole application that calculates a student's total marks, average, and pass/fail result.
+Student Marks Calculator is a C++ console application that calculates a student's total marks, average, and pass/fail result.
 
 ## 2. Project Objectives
 
 - Calculates total marks.
 - Calculates average marks.
 - Determine the student's grade.
-- determine whether the student passed or failed.
-- validate marks entered by the user.
+- Determine whether the student passed or failed.
+- Validate marks entered by the user.
 
 
 ## 3. Technologies Used
